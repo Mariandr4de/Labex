@@ -25,8 +25,8 @@ https://app.uizard.io/p/2adc1b44
 http://even-grip.surge.sh
 ### Acesso Administrativo
 Para acessar a área administrativa é necessario usar os dados abaixo:
-E-mail: adm@labex.com.br
-Senha: labextrips
+- E-mail: adm@labex.com.br
+- Senha: labextrips
 
 ### Imagens
 Página Inicial
