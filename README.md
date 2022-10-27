@@ -1,9 +1,8 @@
 <h2 align="center">🌍🚀Projeto labeX🪐🌍</h2>
 
-<h4 align="center">O projeto consiste na criação de um pseudo site de viagens interplanetárias. Suas principais funcionalidades são: <br/>
-Nas páginas públicas: Um usuário comum pode escolher uma das viagens disponíveis e se candidatar preenchendo um formulário. Já nas páginas privadas, o administrador pode (após fazer o login) criar novas viagens e fazer o controle de qual usuário irá ou não viajar em cada uma das viagens na página de detalhes.</h4>
+<h4 align="justify">O projeto consiste na criação de um pseudo site de viagens interplanetárias. Suas principais funcionalidades são: Nas páginas públicas: Um usuário comum pode escolher uma das viagens disponíveis e se candidatar preenchendo um formulário. Já nas páginas privadas, o administrador pode (após fazer o login) criar novas viagens e fazer o controle de qual usuário irá ou não viajar em cada uma das viagens na página de detalhes.</h4>
 
-### O que funciona
+## ✔️O que funciona
 - Páginas públicas:
 Home 
 Lista de viagens
@@ -19,16 +18,49 @@ Detalhes das viagem onde também é possivel aprovar ou reprovar um candidato à
 - Página de erro em caso o usuario comum ou o adiministrador navegue por uma página não existente
 - Responsividade Funcional
 
-### Wireframe 
-https://app.uizard.io/p/2adc1b44
-### Link Surge
-http://even-grip.surge.sh
+## 📋Wireframe 
+
+[wireframe](https://app.uizard.io/p/2adc1b44)
+
+## 🔗Link Surge
+
+[Labex-surge](http://even-grip.surge.sh)
+
 ### Acesso Administrativo
 Para acessar a área administrativa é necessario usar os dados abaixo:
 - E-mail: adm@labex.com.br
 - Senha: labextrips
 
-### Imagens
+## 💻Como Rodar o Projeto Localmente 
+
+Siga o passo-a-passo abaixo:
+
+| Passo                   | Comando                          |
+| ----------------------- | -------------------------------- |
+| Faça o Clone            | `git clone` deste repositório    |
+| Instale as Dependências | `npm install` ou ` yarn install` |
+| Utilize o Script NPM    | `npm run start` ou `npm run dev` |
+
+Por padrão a aplicação rodará localmente na porta 3000.
+
+## 📚Bibliotecas Utilizadas
+
+- axios
+- react-icons
+- styled-components
+- sweet-alert
+
+## 🛠Tecnologias Utilizadas
+ <div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+</div>
+
+
+## 🖨️Imagens
 Página Inicial
 ![labeX (1)](https://user-images.githubusercontent.com/104591781/179373926-7f51eddd-8b72-453a-98d2-16913dbc1e5b.jpeg)
 
@@ -53,12 +85,29 @@ Página de Detalhes (com hover ativado)
 Página de Erro
 ![labeX (11)](https://user-images.githubusercontent.com/104591781/179374241-a97b7a45-7340-44ed-b0cf-da6ee8bea829.jpeg)
 
+
+<div align="center">
+
 Responsividade
 
-![responsividade (1)](https://user-images.githubusercontent.com/104591781/179374311-dedcb971-e0a6-488b-be57-29ca179ba0f0.jpeg)
 
-![responsividade (2)](https://user-images.githubusercontent.com/104591781/179374316-36381cfe-6ecb-46ec-bc04-1384a056c9b7.jpeg)
+Tela Inicial             |  Lista de Viagens
+:-------------------------:|:-------------------------:
+![Tela Inicial](https://user-images.githubusercontent.com/104591781/179374311-dedcb971-e0a6-488b-be57-29ca179ba0f0.jpeg)   |  ![Lista de Viagens](https://user-images.githubusercontent.com/104591781/179374316-36381cfe-6ecb-46ec-bc04-1384a056c9b7.jpeg)
 
-![responsividade](https://user-images.githubusercontent.com/104591781/179374855-0779c0e8-e305-47f4-81b5-fb809f8f076e.jpeg)
+Login |  Área administrativa
+:-------------------------:|:-------------------------:
+![Login](https://user-images.githubusercontent.com/104591781/179374855-0779c0e8-e305-47f4-81b5-fb809f8f076e.jpeg)   |  ![Área administrativa](https://user-images.githubusercontent.com/104591781/179374321-abc2e9c4-f14a-4eeb-93b5-f34da81b50b5.jpeg)
+</div>
 
-![responsividade (4)](https://user-images.githubusercontent.com/104591781/179374321-abc2e9c4-f14a-4eeb-93b5-f34da81b50b5.jpeg)
+
+
+<h2 align="center"> 
+ 👩🏻‍💻Desenvolvedora 
+</h2>
+
+<table align="center">
+  <tr>
+    </td> <td align="center"><a href="https://www.linkedin.com/in/mariandr4de/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104591781?v=4" width="100px;" alt=""/><br /><sub><b>Mariana Andrade</b></sub></a> 
+  </tr>
+</table>
